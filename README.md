@@ -2,13 +2,13 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Data Engineer & AI/ML Engineer** with 5+ years of experience building scalable data pipelines, cloud data platforms, real-time streaming systems, and AI-powered applications.
+I'm a Data Engineer & AI/ML Engineer with 5+ years of experience building scalable data pipelines, cloud data platforms, real-time streaming systems, and AI-powered applications.
 
-I specialize in transforming complex data into reliable, analytics-ready and AI-ready solutions using **Python, SQL, PySpark, Apache Spark, Kafka, Databricks, Snowflake, AWS, Azure, and GCP**.
+I specialize in transforming complex data into reliable, analytics-ready and AI-ready solutions using Python, SQL, PySpark, Apache Spark, Kafka, Databricks, Snowflake, AWS, Azure, and GCP.
 
-My experience spans **ETL/ELT pipelines, data modeling, lakehouse architectures, real-time data processing, workflow orchestration, data quality, cloud data engineering, and analytics**.
+My experience spans ETL/ELT pipelines, data modeling, lakehouse architectures, real-time data processing, workflow orchestration, data quality, cloud data engineering, and analytics.
 
-I'm also passionate about **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Vector Databases, and Agentic AI**, with a focus on integrating modern AI capabilities into production-grade data platforms.
+I'm also passionate about Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Vector Databases, and Agentic AI, with a focus on integrating modern AI capabilities into production-grade data platforms.
 
 🎓 **M.S. in Data Science — University of Maryland, Baltimore County (UMBC)**
 
@@ -20,9 +20,9 @@ I'm also passionate about **Generative AI, Large Language Models (LLMs), Retriev
 
 I work on healthcare data engineering initiatives involving cloud data platforms, scalable ETL/ELT pipelines, real-time processing, analytics, and healthcare data integration.
 
-- Built and maintained scalable **ETL/ELT pipelines** using Python, SQL, PySpark, and cloud technologies.
-- Developed data processing workflows for healthcare datasets including **FHIR and HL7** data.
-- Worked with **Databricks, Delta Lake, Kafka, Snowflake, Azure Data Factory, ADLS, and Azure Synapse**.
+- Built and maintained scalable ETL/ELT pipelines using Python, SQL, PySpark, and cloud technologies.
+- Developed data processing workflows for healthcare datasets including FHIR and HL7 data.
+- Worked with Databricks, Delta Lake, Kafka, Snowflake, Azure Data Factory, ADLS, and Azure Synapse.
 - Built analytics-ready datasets supporting reporting, business intelligence, and downstream applications.
 - Implemented workflow orchestration, monitoring, validation, and automated data quality processes.
 - Supported secure processing of healthcare data with strong data governance and privacy practices.
@@ -31,9 +31,9 @@ I work on healthcare data engineering initiatives involving cloud data platforms
 
 Worked on cloud-based healthcare data platforms supporting claims, eligibility, encounters, reporting, and analytics workloads.
 
-- Developed scalable data pipelines using **AWS Glue, Amazon S3, EMR, Lambda, Python, SQL, and PySpark**.
-- Built and optimized large-scale data processing workflows using **Apache Spark**.
-- Worked with **Amazon Redshift, Snowflake, Apache Airflow, REST APIs, FHIR, and HL7** integrations.
+- Developed scalable data pipelines using AWS Glue, Amazon S3, EMR, Lambda, Python, SQL, and PySpark.
+- Built and optimized large-scale data processing workflows using Apache Spark.
+- Worked with Amazon Redshift, Snowflake, Apache Airflow, REST APIs, FHIR, and HL7 integrations.
 - Developed automated transformation and data validation workflows.
 - Supported reliable delivery of analytics-ready healthcare datasets.
 - Improved pipeline scalability, reliability, and maintainability through reusable data engineering components.
@@ -42,7 +42,7 @@ Worked on cloud-based healthcare data platforms supporting claims, eligibility, 
 
 ## 🧪 Projects
 
-I enjoy building end-to-end **Data Engineering, AI/ML, Machine Learning, and Analytics** solutions. Here are some highlights from my repositories:
+I enjoy building end-to-end Data Engineering, AI/ML, Machine Learning, and Analytics solutions. Here are some highlights from my repositories:
 
 ### 🚀 Open-Source Repositories
 
@@ -66,14 +66,14 @@ A production-style real-time data engineering platform designed to process conti
 
 **Key Features:**
 
-- Real-time event ingestion using **Apache Kafka**
-- Stream processing with **Spark Structured Streaming**
-- Distributed data transformation using **PySpark**
-- Lakehouse storage using **Delta Lake**
-- **Bronze → Silver → Gold Medallion Architecture**
-- Pipeline orchestration using **Apache Airflow**
-- Data processing and analytics using **Databricks**
-- Containerized development using **Docker**
+- Real-time event ingestion using Apache Kafka
+- Stream processing with Spark Structured Streaming
+- Distributed data transformation using PySpark
+- Lakehouse storage using Delta Lake
+- Bronze → Silver → Gold Medallion Architecture
+- Pipeline orchestration using Apache Airflow
+- Data processing and analytics using Databricks
+- Containerized development using Docker
 
 🔗 [**View Repository**](https://github.com/GayathriGalli/real-time-streaming-data-platform)
 
@@ -81,17 +81,17 @@ A production-style real-time data engineering platform designed to process conti
 
 ### 🏥 Healthcare RAG AI Assistant
 
-An AI-powered healthcare assistant demonstrating a complete **Retrieval-Augmented Generation (RAG)** architecture with semantic search and locally hosted LLM inference.
+An AI-powered healthcare assistant demonstrating a complete Retrieval-Augmented Generation (RAG) architecture with semantic search and locally hosted LLM inference.
 
 **Key Features:**
 
-- End-to-end **RAG pipeline**
+- End-to-end RAG pipeline
 - Document ingestion and chunking
-- Semantic retrieval using **ChromaDB**
-- Embeddings using **SentenceTransformers**
-- Local LLM inference using **Phi-3 and Ollama**
-- REST API backend using **FastAPI**
-- Interactive user interface using **Streamlit**
+- Semantic retrieval using ChromaDB
+- Embeddings using SentenceTransformers
+- Local LLM inference using Phi-3 and Ollama
+- REST API backend using FastAPI
+- Interactive user interface using Streamlit
 - Context-grounded AI responses
 - Docker support and automated testing
 
@@ -105,10 +105,10 @@ A deep-learning computer vision application designed to identify plant diseases 
 
 **Key Features:**
 
-- Image classification using **Convolutional Neural Networks (CNNs)**
-- Deep-learning model development using **TensorFlow and Keras**
+- Image classification using Convolutional Neural Networks (CNNs)
+- Deep-learning model development using TensorFlow and Keras
 - Image preprocessing and model inference pipeline
-- Interactive prediction interface using **Streamlit**
+- Interactive prediction interface using Streamlit
 - Practical application of computer vision for agriculture
 
 🔗 [**View Repository**](https://github.com/GayathriGalli/plant-disease-detection)
@@ -192,11 +192,11 @@ I'm actively building and exploring applications involving:
 
 ## 📫 Get in Touch
 
-I'm interested in connecting with professionals and teams working on **Data Engineering, AI/ML Engineering, Generative AI, Cloud Data Platforms, and real-time data systems**.
+I'm interested in connecting with professionals and teams working on Data Engineering, AI/ML Engineering, Generative AI, Cloud Data Platforms, and real-time data systems.
 
 📧 **Email:** gayathrigalli0505@gmail.com
 
-💻 **linkedin:** [GayathriGalli](https://github.com/GayathriGalli)
+💻 **linkedin:** [GayathriGalli](https://www.linkedin.com/in/gayathrigalli/)
 
 ---
 
